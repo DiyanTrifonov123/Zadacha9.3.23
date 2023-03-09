@@ -1,0 +1,8 @@
+C:\9Д\ZadachaZaChas\ZadachaZaChas\bin\Debug\ZadachaZaChas.exe.config
+C:\9Д\ZadachaZaChas\ZadachaZaChas\bin\Debug\ZadachaZaChas.exe
+C:\9Д\ZadachaZaChas\ZadachaZaChas\bin\Debug\ZadachaZaChas.pdb
+C:\9Д\ZadachaZaChas\ZadachaZaChas\obj\Debug\ZadachaZaChas.csproj.AssemblyReference.cache
+C:\9Д\ZadachaZaChas\ZadachaZaChas\obj\Debug\ZadachaZaChas.csproj.SuggestedBindingRedirects.cache
+C:\9Д\ZadachaZaChas\ZadachaZaChas\obj\Debug\ZadachaZaChas.csproj.CoreCompileInputs.cache
+C:\9Д\ZadachaZaChas\ZadachaZaChas\obj\Debug\ZadachaZaChas.exe
+C:\9Д\ZadachaZaChas\ZadachaZaChas\obj\Debug\ZadachaZaChas.pdb
