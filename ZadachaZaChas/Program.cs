@@ -10,8 +10,9 @@ namespace ZadachaZaChas
     {
         static void Main(string[] args)
         {
+            Console.Write("Въведи числа с интервал: ");
             List<int> numbers = Console.ReadLine().Split().Select(int.Parse).ToList();
-
+            Console.Write("Въведи командите: ");
             string command = Console.ReadLine();
 
             while (command != "print")
@@ -71,7 +72,7 @@ namespace ZadachaZaChas
 
                 command = Console.ReadLine();
             }
-
+            Console.WriteLine("Числата от списъка:");
             numbers.Reverse();
             Console.WriteLine(string.Join(", ", numbers));
 
